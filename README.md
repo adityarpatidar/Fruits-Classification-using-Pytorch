@@ -7,6 +7,6 @@ Uploaded kaggle notebook on Fruits-360 dataset
 Link for Kaggle Fruits-360 dataset: https://www.kaggle.com/moltean/fruits
 
 
-kaggle kernal: kernel5240774064                                                                 
+kaggle kernal: kernel5240774064.ipynb                                                                 
                                                                      
                                                                      
